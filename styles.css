@@ -8,6 +8,7 @@ html,
 body {
   scroll-behavior: smooth;
   overflow-x: hidden;
+  background-color: #313131;
 }
 header {
   /* background-color: blue; */
